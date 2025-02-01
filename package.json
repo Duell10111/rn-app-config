@@ -13,8 +13,8 @@
   "author": "Duell10111",
   "license": "ISC",
   "peerDependencies": {
-    "react": ">18",
-    "react-native": ">0.74",
+    "react": ">=18",
+    "react-native": ">=0.72",
     "react-native-mmkv": ">2.0.0"
   },
   "devDependencies": {
