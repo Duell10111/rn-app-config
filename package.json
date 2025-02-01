@@ -1,6 +1,6 @@
 {
   "name": "rn-app-config",
-  "version": "0.0.1.beta.0",
+  "version": "0.0.1-beta.0",
   "description": "Simple RN App Config for key value user settings",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
