@@ -11,7 +11,7 @@
     "lint": "eslint ."
   },
   "author": "Duell10111",
-  "license": "ISC",
+  "license": "GPL-3.0-or-later",
   "peerDependencies": {
     "react": ">=18",
     "react-native": ">=0.72",
