@@ -9,7 +9,7 @@ interface SettingsContextType<T> {
     updateSettings: (appSettings: Partial<T>) => void;
 }
 
-const SettingsContext = createContext<SettingsContextType<any>>({
+const SettingsContext = createContext<SettingsContextType<unknown>>({
     settings: {},
     updateSettings: () => {},
 });
